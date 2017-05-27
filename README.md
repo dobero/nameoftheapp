@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README is written by dominik L. and will help to understand what this app does.
 
 Things you may want to cover:
 
